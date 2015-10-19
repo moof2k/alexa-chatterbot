@@ -126,6 +126,8 @@ And some simple utterances that use this schema:
     MessageE {WordA} {WordB} {WordC} {WordD} {WordE}
     MessageF {WordA} {WordB} {WordC} {WordD} {WordE} {WordF}
 
+Create an AWS Lambda function, upload the compiled zip and associate the Alexa Skill with this Lambda.
+
 ## License Notes
 
 jsMegaHAL is under Apache License 2.0, see https://github.com/seiyria/jsmegahal
